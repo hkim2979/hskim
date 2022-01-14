@@ -1,6 +1,38 @@
 
 
 @media (min-width: 1200px) {
+
+	.video-size {
+		padding-right: 5em;
+		padding-left: 5em;
+		position: relative;
+		margin: auto;
+	}
+
+	.image-size {
+		padding-top: 4em;
+		padding-bottom: 4em;
+		padding-right: 5em;
+		padding-left: 5em;
+		position: relative;
+		margin: auto;
+	}
+
+	.videoscuf-size {
+		padding-right: 2em;
+		padding-left: 2em;
+		position: relative;
+		margin: auto;
+	}
+
+	.imagescuf-size {
+		padding-top: 2em;
+		padding-bottom: 2em;
+		padding-right: 2em;
+		padding-left: 2em;
+		position: relative;
+		margin: auto;
+	}
 	
 	.container {
 		max-width: 1200px;
@@ -30,17 +62,17 @@
 	}
 
 	.videoscuf-size {
-		padding-right: 5em;
-		padding-left: 5em;
+		padding-right: 2em;
+		padding-left: 2em;
 		position: relative;
 		margin: auto;
 	}
 
 	.imagescuf-size {
-		padding-top: 4em;
-		padding-bottom: 4em;
-		padding-right: 5em;
-		padding-left: 5em;
+		padding-top: 2em;
+		padding-bottom: 2em;
+		padding-right: 2em;
+		padding-left: 2em;
 		position: relative;
 		margin: auto;
 	}
@@ -74,17 +106,17 @@
 	}
 
 	.videoscuf-size {
-		padding-right: 5em;
-		padding-left: 5em;
+		padding-right: 2em;
+		padding-left: 2em;
 		position: relative;
 		margin: auto;
 	}
 
 	.imagescuf-size {
-		padding-top: 4em;
-		padding-bottom: 4em;
-		padding-right: 5em;
-		padding-left: 5em;
+		padding-top: 2em;
+		padding-bottom: 2em;
+		padding-right: 2em;
+		padding-left: 2em;
 		position: relative;
 		margin: auto;
 	}
@@ -140,17 +172,17 @@
 	}
 
 	.videoscuf-size {
-		padding-right: 5em;
-		padding-left: 5em;
+		padding-right: 2em;
+		padding-left: 2em;
 		position: relative;
 		margin: auto;
 	}
 
 	.imagescuf-size {
-		padding-top: 4em;
-		padding-bottom: 4em;
-		padding-right: 5em;
-		padding-left: 5em;
+		padding-top: 2em;
+		padding-bottom: 2em;
+		padding-right: 2em;
+		padding-left: 2em;
 		position: relative;
 		margin: auto;
 	}
@@ -190,17 +222,17 @@
 	}
 
 	.videoscuf-size {
-		padding-right: 5em;
-		padding-left: 5em;
+		padding-right: 2em;
+		padding-left: 2em;
 		position: relative;
 		margin: auto;
 	}
 
 	.imagescuf-size {
-		padding-top: 4em;
-		padding-bottom: 4em;
-		padding-right: 5em;
-		padding-left: 5em;
+		padding-top: 2em;
+		padding-bottom: 2em;
+		padding-right: 2em;
+		padding-left: 2em;
 		position: relative;
 		margin: auto;
 	}
